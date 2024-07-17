@@ -1,5 +1,3 @@
-# Options Friend
-
 ## Background
 
 This is the Python backend for the monorepo that will generally be running the heavy lifting with financial algorithms
